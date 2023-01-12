@@ -1,6 +1,6 @@
 # Visit here
 
-[https://gym-mywebsite-react.netlify.app/](Gym Website)
+[Gym Website](https://gym-mywebsite-react.netlify.app/)
 
 # Getting Started with Create React App
 
